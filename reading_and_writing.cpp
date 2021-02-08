@@ -2,6 +2,9 @@
 #include<vector>
 #include <fstream>
 #include<iostream>
+/**  this is an example of ho to reaf and write to a stream 
+ 
+*/
 
 int main(){
 
